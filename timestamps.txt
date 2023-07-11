@@ -1,0 +1,8 @@
+00:00:00-01.songname 1
+00:01:51-02.songname 2
+00:04:21-03.songname 3
+00:08:04-04.songname 4
+00:10:24-05.songname 5
+etc..
+
+[time start]-[songname]
